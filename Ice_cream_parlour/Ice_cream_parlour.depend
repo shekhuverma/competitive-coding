@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504335861 source:e:\comm_coding\ice_cream_parlour\main.c
+	<stdio.h>
+	<stdlib.h>
+
