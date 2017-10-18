@@ -1,2 +1,5 @@
 https://www.hackerrank.com/challenges/gridland-metro
 https://www.hackerrank.com/challenges/non-divisible-subset/problem
+https://www.hackerrank.com/challenges/maximum-subarray-sum/problem
+https://www.hackerrank.com/challenges/greedy-florist/problem
+https://www.hackerrank.com/challenges/two-pluses/problem
