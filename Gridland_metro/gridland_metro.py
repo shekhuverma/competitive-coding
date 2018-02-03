@@ -10,7 +10,6 @@ while(j<ip[2]):
     c2=ip1[2]
     if temp.has_key(r):
         temp[r].extend([c1,c2])
-        temp[r]=sorted(temp[r])
     else:
         temp[r]=[c1,c2]
     j+=1
